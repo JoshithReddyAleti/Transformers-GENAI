@@ -83,7 +83,7 @@ Output 3: Once upon a time, there was a kingdom..
 
 
 Reflection on GPT-2 Prompt Experiment
-This experiment helped me understand how powerful and flexible transformer-based models like GPT-2 are in generating human-like text. By experimenting with different prompts—news headlines, story openers, dialogues, and factual questions—I observed how GPT-2 adapts its tone, structure, and context to fit the input.
+This experiment helped me understand how powerful and flexible transformer-based models like GPT-2 are in generating human-like text. By experimenting with different prompts - news headlines, story openers, dialogues, and factual questions—I observed how GPT-2 adapts its tone, structure, and context to fit the input.
 
 Adjusting parameters like temperature and max_length had a noticeable effect: higher temperatures led to more creative and unpredictable responses, while lower values made the output more structured and focused. Using num_return_sequences showed how diverse the outputs can be even from the same prompt.
 
